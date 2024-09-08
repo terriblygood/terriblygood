@@ -1,6 +1,8 @@
 ## Hi 👋, I'm David Volodin - frontend developer
 ### DOWNLOAD MY CV!
-[![Download Resume](./download-cv-btn.png)](https://github.com/terriblygood/terriblygood/raw/main/resume.pdf)
+<a href="https://github.com/terriblygood/terriblygood/raw/main/resume.pdf">
+  <img src="./download-cv-btn.png" width="150" height="50">
+</a>(https://github.com/terriblygood/terriblygood/raw/main/resume.pdf)
 
 
 ### LANGUAGES AND TOOLS 
