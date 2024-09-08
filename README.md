@@ -2,8 +2,7 @@
 ### DOWNLOAD MY CV!
 <a href="https://github.com/terriblygood/terriblygood/raw/main/resume.pdf">
   <img src="./download-cv-btn.png" width="150" height="50">
-</a>(https://github.com/terriblygood/terriblygood/raw/main/resume.pdf)
-
+</a>
 
 ### LANGUAGES AND TOOLS 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
