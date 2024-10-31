@@ -1,6 +1,6 @@
 ## Hi 👋, I'm David Volodin - frontend developer
 ### DOWNLOAD MY CV!
-<a href="https://github.com/terriblygood/terriblygood/raw/main/resume.pdf">
+<a href="https://github.com/terriblygood/terriblygood/raw/main/ВОЛОДИН_ДАВИД_РЕЗЮМЕ(front) (1).pdf">
   <img src="./download-cv-btn.png" width="150" height="50">
 </a>
 
@@ -25,3 +25,5 @@
 - Telegram: @chernobilskiyy    
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/fsmbdelse)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/itsr_davis)
+<!-- ### My statics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terriblygood)](https://github.com/anuraghazra/github-readme-stats) -->
